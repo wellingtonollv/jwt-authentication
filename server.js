@@ -37,13 +37,13 @@ apiRoutes.post('/', function (req, res) {
 
         let usuario = new user()
         {
-            name: "tadriano";
+            name: "senai";
             admin: true
         };
 
         var token = jwt.sign(usuario, 'palavra-chave', {
             expiresInMinutes: 1440
-        });
+        },{algorithm:'RS256 '});
 
         res.json({
             success: true,
