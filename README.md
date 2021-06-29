@@ -7,4 +7,4 @@ JWT authentication example for practice
 
 -inside the folder in terminal, execute **npm install**.
 
--run with in terminal **node server.js**.
+-inside of the folder, after install run **node server.js**.
