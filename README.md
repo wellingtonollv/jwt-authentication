@@ -5,6 +5,6 @@ JWT authentication example for practice
 
 -first clone this repo.
 
--inside the folder in terminal, execute npm install.
+-inside the folder in terminal, execute **npm install**.
 
--run with node server.js in terminal.
+-run with in terminal **node server.js**.
