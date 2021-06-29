@@ -1,5 +1,5 @@
 # jwt-authentication
-JWT authentication example for practice
+JWT authentication example for testing porpose
 
 ## How to execute
 
